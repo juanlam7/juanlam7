@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, and welcome to my repo.
+
+- 👨‍💻 I'm a JavaScript Developer.
+- 💼 I’m currently work as Front end Developer.
+- 💻 At this point I'm a full time React Developer, however I worked a long time with Angular and Vue.
+- 👨‍🏫 Currently, I'm learning Flutter and my next goal is learn Kotlin.
+- 🏃‍♂️ Sport lover and passionate about soccer.
+
+- 📫 How to reach me: @juanlam77 on twiiter or LinkedIn https://www.linkedin.com/in/juan-luis-arias-medina-7aa6aab5/.
 
 <!--
 **juanlam7/juanlam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
